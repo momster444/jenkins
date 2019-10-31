@@ -6,4 +6,5 @@ console.log('push');
 console.log('push2');
 제발
 help me
+이제좀 되자
 console.log('hello');
